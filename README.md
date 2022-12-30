@@ -22,4 +22,4 @@
 - WHEN I refresh the page
 - THEN the saved events persist
 
-![Work_Day_Scheduler]()
+![Work_Day_Scheduler](./images/Work_Day_Scheduler_ScreenShot.png)
