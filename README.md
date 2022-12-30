@@ -1,12 +1,12 @@
-[Link to Github](https://github.com/MartinCespedes/Module-5-Work-Schedule)
+[Live Link to Github](https://martincespedes.github.io/Work_Day_Scheduler/)
 
-## User Story
+## :bulb:User Story
 
 - AS AN employee with a busy schedule
 - I WANT to add important events to a daily planner
 - SO THAT I can manage my time effectively
 
-## Acceptance Criteria
+## :white_check_mark: Acceptance Criteria
 
 - GIVEN I am using a daily planner to create a schedule
 - WHEN I open the planner
@@ -21,3 +21,5 @@
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
+
+![Work_Day_Scheduler]()
